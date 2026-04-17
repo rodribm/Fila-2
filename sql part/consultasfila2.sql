@@ -41,6 +41,3 @@ INNER JOIN Valoraciones AS val
 	ON u.id_usuario = val.id_usuario
 GROUP BY u.nombre
 ORDER BY nota_media_dada DESC;
-	ON u.usuario_id = val.usuario_id
-GROUP BY u.nombre
-ORDER BY nota_media_dada DESC;
