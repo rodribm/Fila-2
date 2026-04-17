@@ -1,1 +1,0 @@
-Aquí están todos los archivos sql para la creación e inserción de datos de la base de datos.
